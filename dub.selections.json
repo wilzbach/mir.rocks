@@ -1,0 +1,10 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"diet-ng": "~master",
+		"experimental_allocator": "2.70.0-b1",
+		"imageformats": "6.0.0",
+		"libdparse": "~master",
+		"mir": "0.15.2"
+	}
+}

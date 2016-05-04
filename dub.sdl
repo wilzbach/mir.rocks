@@ -1,0 +1,8 @@
+name "mir-garden"
+description "Libmir garden"
+copyright "Copyright © 2016, DlangScience"
+authors "DlangScience"
+dependency "libdparse" version="~>0.5"
+dependency "diet-ng" version="~>0.1"
+dependency "mir" version="~>0.15.2"
+mainSourceFile "src/main.d"
